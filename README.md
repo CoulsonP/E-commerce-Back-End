@@ -23,11 +23,13 @@ This applicaton is a database that uses mySQL and allows a company to use a cata
 * THEN I am able to successfully create, update, and delete data in my database
 
 ## Preview
-[Untitled_ Jan 23, 2023 9_47 PM.webm](https://user-images.githubusercontent.com/114447565/214208529-330867cb-9d86-4398-a6d1-4d3855bc7623.webm)
+[Untitled_ Jan 23, 2023 9_47 PM.webm](https://user-images.githubusercontent.com/114447565/214727590-9a667f31-9cc8-499c-a828-b14e19630d2c.webm)
+
+
+[Untitled_ Jan 23, 2023 10_03 PM.webm](https://user-images.githubusercontent.com/114447565/214727618-3fead9f9-9701-41c9-a718-d17265d86c8b.webm)
 
 
 
-[Untitled_ Jan 23, 2023 10_03 PM.webm](https://user-images.githubusercontent.com/114447565/214210023-3dff396d-4dcc-4ba6-bbf6-a8e4368068ba.webm)
 
 
 
